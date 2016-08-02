@@ -11,3 +11,7 @@ adding the changed file to staging area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 if I'd like to create a different version of my code, branch would be very helpful.
+
+How do the diagrams help you visualize the branch structure?
+
+don't really understand
