@@ -3,3 +3,7 @@ check the status
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
  basically, staging area offers a space for file before they are transfered to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+adding the changed file to staging area.
